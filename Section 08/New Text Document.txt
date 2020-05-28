@@ -1,0 +1,5 @@
+Resources
+
+Learn more about Forms and ItemViewModel:
+
+https://edvin.gitbooks.io/tornadofx-guide/content/part1/11.%20Editing%20Models%20and%20Validation.html
