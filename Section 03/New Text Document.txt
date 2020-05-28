@@ -1,0 +1,7 @@
+Resources
+
+TornadoFX setup:
+
+https://edvin.gitbooks.io/tornadofx-guide/part1/2.%20Setting%20Up.html
+
+https://edvin.gitbooks.io/tornadofx-guide/part1/3.%20Components.html
