@@ -1,0 +1,7 @@
+Exposed dependency: https://github.com/JetBrains/Exposed
+
+- https://bintray.com/kotlin/exposed/exposed/view#
+
+SQLite: https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc/3.25.2
+
+Charts: https://edvin.gitbooks.io/tornadofx-guide/part1/8.%20Charts.html
