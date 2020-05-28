@@ -1,0 +1,5 @@
+Resources
+
+Learn more about Shapes and Animations in TornadoFX:
+
+- https://edvin.gitbooks.io/tornadofx-guide/part1/9.%20Shapes%20and%20Animation.html
